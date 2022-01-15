@@ -1,5 +1,21 @@
+*{
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.app{
+  
+  background-color: #dddddd;
+  width: 1024px;
+  min-height: 500px;
+  margin-top: 20px;
+  padding-top: 20px;
+  border: 2px solid black;
+}
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {

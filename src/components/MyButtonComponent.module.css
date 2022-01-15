@@ -1,0 +1,14 @@
+/* MyButtonComponent.module.css */
+/* button{
+    width: 500px;
+    height: 500px;
+} */
+.myButton {
+    /* width: 500px; */
+    border: 0;
+    padding: 12px 15px;
+    background: grey;
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+}

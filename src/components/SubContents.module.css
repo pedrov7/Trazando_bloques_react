@@ -1,0 +1,13 @@
+.mySubContent{
+    
+    display: inline-block;
+    width: 200px;
+    height: 280px;
+    border: 2px solid black;
+    background-color: #ffd966;
+    /* padding: 20px; */
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

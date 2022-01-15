@@ -1,0 +1,11 @@
+.myMain{
+    padding: 0;
+    list-style-type: none;
+    display: inline-block;
+    width: 705px;
+    height: 470px;
+    background-color: #e06666;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    /* text-decoration: none; */
+}
